@@ -1,3 +1,3 @@
-http://example.com/2023/11/25/test/
-http://example.com/2023/11/25/hello-world/
-http://example.com/
+https://shengdoupi.github.io/project/2023/11/25/test/
+https://shengdoupi.github.io/project/2023/11/25/hello-world/
+https://shengdoupi.github.io/project
