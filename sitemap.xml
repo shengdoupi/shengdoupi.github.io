@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://shengdoupi.github.io/2023/11/25/java_ordered_collection/</loc>
+    <loc>http://shengdoupi.github.io/2024/01/04/spring-ioc/</loc>
     
-    <lastmod>2024-01-08</lastmod>
+    <lastmod>2024-05-30</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://shengdoupi.github.io/2024/01/04/spring-ioc/</loc>
+    <loc>http://shengdoupi.github.io/2023/11/25/java_ordered_collection/</loc>
     
-    <lastmod>2024-01-04</lastmod>
+    <lastmod>2024-01-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -76,7 +76,7 @@
 
   <url>
     <loc>http://shengdoupi.github.io/</loc>
-    <lastmod>2024-01-08</lastmod>
+    <lastmod>2024-05-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
